@@ -1477,3 +1477,9 @@ table.paleBlueRows tfoot {
 table.paleBlueRows tfoot td {
   font-size: 14px;
 }
+
+.img-manual{
+  width: 100%;
+  height: 75%;
+  text-align: center;
+}
